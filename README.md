@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Lora ☺️
 
-* currently learning Python
+* currently learning Python 🐍
 
 <!--
 **loyordanova/loyordanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
