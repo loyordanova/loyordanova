@@ -1,4 +1,4 @@
-Hi there! My name is Lora! ===============================  Python newbie 🐣 --------------------  * 🌍  I'm based in Sofia, Bulgaria
+Hi there! My name is Lora!
 
 ### Skills  
 
