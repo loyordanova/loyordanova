@@ -1,4 +1,6 @@
-Hi there👋 My name is Lora
+Hey there 👋🏻 I am Lora 👾
+
+Currently learning Python 🐍
 
 ### Skills  
 
