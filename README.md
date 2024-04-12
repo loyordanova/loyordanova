@@ -2,6 +2,11 @@ Hey there 👋🏻 I am Lora 👾
 
 Currently learning Python 🐍
 
+<div id="header" align="center">
+  <img src="https://giphy.com/stickers/devrock-python-django-edr-LMt9638dO8dftAjtco" width="100"/>
+</div>
+
+
 ### Skills  
 
 <p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a> </p> 
