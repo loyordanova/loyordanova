@@ -20,7 +20,7 @@
 <h2 align="center">⚒️ Languages & Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,postgresql,docker,pycharm, vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,postgresql,docker,pycharm,vscode" /><br>
 </div>
 
 <br/>
