@@ -19,6 +19,4 @@ Currently learning Python 🐍
 <a href="http://www.github.com/loyordanova"><img src="https://github-readme-streak-stats.herokuapp.com/?user=loyordanova&stroke=ffffff&background=000000&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
-<img src="https://raw.githubusercontent.com/loyordanova/loyordanova/output/snake.svg" alt="Snake animation" />
-
-###
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
