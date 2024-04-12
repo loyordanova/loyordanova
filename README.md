@@ -1,5 +1,6 @@
 <div  align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3NudTZzOHIwdHI3YWxxOWV5cWp4bHE4c2ozdHZyN3Bjcmp5bGdjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f6RQunjGphgB1GEVkO/giphy.gif" width="150"/>
+  
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lora!;" />
 </h1>
