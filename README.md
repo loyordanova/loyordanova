@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXd0Nm9tYnh6dDd1aml0Z2xqOGJza2sxdXE0Y3JvNWU1djAwaXkyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3NudTZzOHIwdHI3YWxxOWV5cWp4bHE4c2ozdHZyN3Bjcmp5bGdjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f6RQunjGphgB1GEVkO/giphy.gif" width="100"/>
 </div>
 
 Hey there 👋🏻 I am Lora 👾
