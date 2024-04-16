@@ -33,6 +33,5 @@
 <a href="http://www.github.com/loyordanova"><img src="https://github-readme-streak-stats.herokuapp.com/?user=loyordanova&stroke=ffffff&background=000000&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loyordanova&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loyordanova&layout=compact&theme=github_dark&title_color=14b8a6&text_color=ffffff&bg_color=000000&hide_border=true)
 
