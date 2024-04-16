@@ -34,7 +34,8 @@
 
 <div align="center">
 
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/loyordanova/loyordanova/output/github-contribution-grid-snake.svg" />
+
+  ![Snake animation](https://github.com/loyordanova/loyordanova/blob/output/github-contribution-grid-snake.svg)
   
 
   
