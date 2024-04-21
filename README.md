@@ -12,7 +12,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **Docker, PostgreSQL**
+ 🌱 I’m currently learning **Docker & PostgreSQL**
 
 
  <hr/>
