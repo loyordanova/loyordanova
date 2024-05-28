@@ -17,10 +17,10 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages & Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages & Tools I Use⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,postgresql,docker,pycharm,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,postgresql,docker,pycharm,vscode, pandas" /><br>
 </div>
 
 <br/>
