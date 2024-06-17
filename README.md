@@ -12,7 +12,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **PostgreSQL & Python ORM**
+ 🌱 I’m currently learning ** Python ORM**
 
 
  <hr/>
