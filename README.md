@@ -11,16 +11,13 @@
 <br/>
 
 <div align="center">
- 
- 🌱 I’m currently learning **Python ORM**
-
 
  <hr/>
  
 <h2 align="center">⚒️ Languages & Tools I Use ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,postgresql,docker,pycharm,vscode,django" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,postgresql,mongo,docker,pycharm,vscode,django,flask" /><br>
 </div>
 
 <br/>
