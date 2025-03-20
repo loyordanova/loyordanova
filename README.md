@@ -13,6 +13,10 @@
 <div align="center">
 
  <hr/>
+
+  <h2>My First Project 🎉</h2>
+  <p>I created this website for my friend, and it's my first solo project! Check it out:</p>
+  <a href="https://everafter.bg/" target="_blank">Visit the website!</a>
  
 <h2 align="center">⚒️ Languages & Tools I Use ⚒️</h2>
 <br/>
