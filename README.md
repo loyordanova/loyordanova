@@ -15,13 +15,13 @@
  <hr/>
 
   <h2>My First Project 🎉</h2>
-  <p>I created this website for my friend, and it's my first solo project! Check it out:</p>
+  <p>I created this website for a friend, and it's my first solo project! Check it out:</p>
   <a href="https://everafter.bg/" target="_blank">Visit the website!</a>
  
 <h2 align="center">⚒️ Languages & Tools I Use ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,postgresql,mongo,docker,pycharm,vscode,django,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,python,javascript,html,css,postgresql,mongo,mysql,docker,pycharm,vscode,django,flask" /><br>
 </div>
 
 <br/>
